@@ -33,6 +33,12 @@ education:
   - course: BSc in Computer Science
     institution: AIUB
     year: 2016
+  - course: Higher Secondary Certificate (HSC)
+    institution: Govt. Nazimuddin College
+    year: 2012
+  - course: Secondary School Certificate (SSC)
+    institution: U. I. Govt. High School
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,9 +48,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:kishor@aiub.edu".
-- icon: twitter
+- icon: facebook
   icon_pack: fab
-  link: https://twitter.com/kishormorol
+  link: https://www.facebook.com/kishormorol
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=pjn3jg4AAAAJ&hl=en
