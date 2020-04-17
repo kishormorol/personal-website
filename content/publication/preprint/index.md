@@ -1,3 +1,5 @@
+<!---
+
 ---
 title: "An example preprint / working paper"
 authors:
@@ -40,7 +42,7 @@ url_source: '#'
 url_video: '#'
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
@@ -67,3 +69,4 @@ Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+-->

@@ -1,12 +1,13 @@
 ---
-title: "An example conference paper"
+title: "A Concept: Classifying Student’s Feedback Electronically for
+Improving Academics"
 authors:
 - admin
 date: "2013-07-01T00:00:00Z"
-doi: "https://dl.acm.org/doi/10.1145/3377049.3377082"
+doi: "10.1145/3377049.3377082"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-03-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,7 +29,7 @@ featured: true
 
 links:
 - name: Custom Link
-  url: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+  url: https://dl.acm.org/doi/10.1145/3377049.3377082
 url_pdf: ''
 url_code: '#'
 url_dataset: '#'
