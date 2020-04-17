@@ -34,10 +34,10 @@ education:
     institution: AIUB
     year: 2016
   - course: Higher Secondary Certificate (HSC)
-    institution: Govt. Nazimuddin College
+    institution: Government Nazimuddin College
     year: 2012
   - course: Secondary School Certificate (SSC)
-    institution: U. I. Govt. High School
+    institution: United Islamia Government High School
     year: 2010
 
 # Social/Academic Networking
@@ -48,15 +48,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:kishor@aiub.edu".
-- icon: facebook
+- icon: linkedin
   icon_pack: fab
-  link: https://www.facebook.com/kishormorol
+  link: https://www.linkedin.com/in/kishormorol
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=pjn3jg4AAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/kishormorol
+  - icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/kishormorol
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
