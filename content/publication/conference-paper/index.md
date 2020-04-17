@@ -3,7 +3,7 @@ title: "A Concept: Classifying Student’s Feedback Electronically for
 Improving Academics"
 authors:
 - admin
-date: "2013-07-01T00:00:00Z"
+date: "2020-03-01T00:00:00Z"
 doi: "10.1145/3377049.3377082"
 
 # Schedule page publish date (NOT publication's date).
@@ -30,21 +30,20 @@ featured: true
 links:
 - name: Custom Link
   url: https://dl.acm.org/doi/10.1145/3377049.3377082
-url_pdf: ''
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+#url_pdf: ''
+#url_code: '#'
+#url_dataset: '#'
+#url_poster: '#'
+##url_slides: ''
+#url_source: '#'
+#url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
-  preview_only: false
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  #focal_point: ""
+  #preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
