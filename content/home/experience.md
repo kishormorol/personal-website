@@ -18,27 +18,40 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Lecturer at CS Department"
+  company = "AIUB"
+  company_url = "https://www.aiub.edu/"
+  location = "Dhaka, Bangladesh"
+  date_start = "2018-09-11"
   date_end = ""
   description = """
-  Responsibilities include:
+  Teaching: 
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Spring 19-20: Introduction to Programming, Computer Graphics
+  * Fall 19-20: Algorithms, Computer Graphics, Operating Systems
+  * Summer 18-19: Algorithms, Computer Graphics
+  * Spring 18-19: Algorithms, Computer Graphics
+  * Fall 18-19: Data Structure
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Lab Instructor & Trainer"
+  company = "AIUB"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Dhaka, Bangladesh"
+  date_start = "2017-06-05"
+  date_end = "2018-08-31"
+  description = """Train students to solve computational problems."""
+  
+  [[experience]]
+  title = "Software Engineer"
+  company = "IMS Health, Dhaka (IQVIA )"
+  company_url = "https://www.iqvia.com/"
+  location = "Dhaka, Bangladesh"
+  date_start = "2016-01-12"
+  date_end = "2017-05-31"
+  description = """Developed Pharmaceutical Web Applications using Microsoft.Net and Angular
+Java Script.
+"""
 
 +++
