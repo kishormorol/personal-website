@@ -20,11 +20,17 @@ subtitle = ""
   name = "python"
   description = "80%"
   
-[[feature]]
-  icon = "Machine Learning"
+  [[feature]]
+  icon = "r-project"
   icon_pack = "fab"
-  name = "Machine Learning"
-  description = "70%"  
+  name = "R"
+  description = "70%"
+
+  [[feature]]
+  icon = "java"
+  icon_pack = "fab"
+  name = "java"
+  description = "70%"
   
 [[feature]]
   icon = "C++"
@@ -32,11 +38,12 @@ subtitle = ""
   name = "C++"
   description = "80%"
   
+  
   [[feature]]
-  icon = "java"
+  icon = "Machine Learning"
   icon_pack = "fab"
-  name = "java"
-  description = "70%"
+  name = "Machine Learning"
+  description = "70%"  
   
   [[feature]]
   icon = "camera-retro"
