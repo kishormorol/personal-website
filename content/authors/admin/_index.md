@@ -67,7 +67,7 @@ user_groups:
 - Visitors
 ---
 
-I am Md. Kishor Morol, working as a Lecturer at the Department of Computer Science, American International University-Bangladesh (AIUB). I completed M.S. and B.Sc(Hons) in Computer Science from the Department of Computer Science, American International University-Bangladesh (AIUB). I am also working as a Trainer (Coach) of AIUB ACM ICPC teams. 
+I am Md. Kishor Morol, working as a Lecturer at the Department of Computer Science, American International University-Bangladesh (AIUB).  I am also working as a Trainer (Coach) of AIUB ACM ICPC teams. I completed M.S. and B.Sc(Hons) in Computer Science from the Department of Computer Science, American International University-Bangladesh (AIUB).
 
 My research interest broadly lies at the intersection of Artificial Inteligence and analysis of Algorithms. Specifically, I am interested in working on research problems which are related to machine learning, natural language processing, and algorithm analysis. 
 
