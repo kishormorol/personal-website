@@ -33,10 +33,10 @@ subtitle = ""
   
 [design]
   # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
+     1 = List
+     2 = Compact
+     3 = Card
+     4 = Citation (publication only)
   view = 2
   
 [design.background]
@@ -49,8 +49,8 @@ subtitle = ""
   #color = "navy"
   
   # Background gradient.
-   gradient_start = "DeepSkyBlue"
-   gradient_end = "SkyBlue"
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.
