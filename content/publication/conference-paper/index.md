@@ -2,9 +2,8 @@
 title: "An example conference paper"
 authors:
 - admin
-- Robert Ford
 date: "2013-07-01T00:00:00Z"
-doi: ""
+doi: "https://dl.acm.org/doi/10.1145/3377049.3377082"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -16,22 +15,21 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In Proceedings of the International Conference on Computing Advancements
+publication_short: In ICCA 2020
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Student's feedback on academics can provide valuable information for an institution for finding their current teaching practices quality and, also can provide suggestions for improving the overall teaching process. There are various kinds of student feedback systems used in different institutions and are mostly manual based process. Therefore, the study proposes a concept of computerized student feedback system (SFS) for academics. Student generally provides their feedback using open ended sentences. SFS will classify all feedback into several categories such as positive, negative, neutral. The proposed SFS uses a combination of machine learning's rule-based and lexicon based custom corpus datastore. This system will be implemented and evaluated in various educational institutions to test the effectiveness of SFS in the academic's context.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+summary:
 tags:
-- Source Themes
+- NLP
 featured: true
 
 links:
 - name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+  url: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: ''
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
@@ -41,7 +39,7 @@ url_source: '#'
 url_video: '#'
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
@@ -53,7 +51,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+#- internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -72,4 +70,3 @@ Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
