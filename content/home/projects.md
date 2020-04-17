@@ -29,13 +29,17 @@ subtitle = ""
     name = "Machine Learning"
     tag = "Machine Learning"
 
-    [[content.filter_button]]
+  [[content.filter_button]]
       name = "Deep Learning"
       tag = "Deep Learning"
 
-      [[content.filter_button]]
+  [[content.filter_button]]
         name = "NLP"
         tag = "NLP"
+
+  [[content.filter_button]]
+          name = "Algorithms"
+          tag = "Algorithms"
 
   [[content.filter_button]]
     name = "Other"
