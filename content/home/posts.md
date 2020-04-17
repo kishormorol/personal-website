@@ -29,15 +29,15 @@ subtitle = ""
     category = "test"
     publication_type = "fff"
     author = "kishor"
-    exclude_featured = true
+    exclude_featured = false
   
 [design]
   # Toggle between the various page layout types.
   #   1 = List
-     2 = Compact
+  #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 1
   
 [design.background]
   # Apply a background color, gradient, or image.
