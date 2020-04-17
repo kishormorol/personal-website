@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Lecturer at CS Department"
-  company = "AIUB"
+  company = "American International University - Bangladesh (AIUB)"
   company_url = "https://www.aiub.edu/"
   location = "Dhaka, Bangladesh"
   date_start = "2018-09-11"
@@ -36,8 +36,8 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Lab Instructor & Trainer"
-  company = "AIUB"
-  company_url = ""
+  company = "American International University - Bangladesh (AIUB)"
+  company_url = "https://www.aiub.edu/"
   location = "Dhaka, Bangladesh"
   date_start = "2017-06-05"
   date_end = "2018-08-31"
@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   company = "IMS Health, Dhaka (IQVIA )"
   company_url = "https://www.iqvia.com/"
   location = "Dhaka, Bangladesh"
-  date_start = "2016-01-12"
+  date_start = "2016-12-01"
   date_end = "2017-05-31"
   description = """Developed Pharmaceutical Web Applications using Microsoft.Net and Angular
 Java Script.
