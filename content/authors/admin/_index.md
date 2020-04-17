@@ -57,7 +57,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/kishormorol
-  - icon: facebook
+- icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/kishormorol
 # Link to a PDF of your resume/CV from the About widget.
