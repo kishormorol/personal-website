@@ -14,7 +14,7 @@ role: Lecturer at Computer Science Department
 
 # Organizations/Affiliations
 organizations:
-- name: American International University-Bangladesh (AIUB)
+- name: AIUB
   url: "https://www.aiub.edu/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,16 +22,16 @@ bio: My research interests include Machine Learning, NLP, and Algorithms.
 
 interests:
 - Machine Learning
-- Natural Language Processing 
+- Natural Language Processing
 - Algorithms
 
 education:
   courses:
   - course: MSc in Computer Science
-    institution: AIUB
+    institution: American International University-Bangladesh (AIUB)
     year: 2019
   - course: BSc in Computer Science
-    institution: AIUB
+    institution: American International University-Bangladesh (AIUB)
     year: 2016
   - course: Higher Secondary Certificate (HSC)
     institution: Government Nazimuddin College
@@ -76,8 +76,8 @@ user_groups:
 - Visitors
 ---
 
-I am Md. Kishor Morol, working as a Lecturer at the Department of Computer Science, American International University-Bangladesh (AIUB).  I am also working as a Trainer (Coach) of AIUB ACM ICPC teams. I completed M.S. and B.Sc(Hons) in Computer Science from the Department of Computer Science, American International University-Bangladesh (AIUB).
+I am Md. Kishor Morol, working as a Lecturer at the Department of Computer Science, American International University-Bangladesh (AIUB).  I am also working as a Trainer (Coach) of AIUB ACM ICPC teams. I completed M.S. and B.Sc (Hons) in Computer Science from the Department of Computer Science, AIUB.
 
-My research interest broadly lies at the intersection of Artificial Inteligence and analysis of Algorithms. Specifically, I am interested in working on research problems which are related to machine learning, natural language processing, and algorithm analysis. 
+My research interest broadly lies at the intersection of Artificial Intelligence and analysis of Algorithms. Specifically, I am interested in working on research problems which are related to machine learning, natural language processing, and algorithm analysis.
 
-I love to write code with background music, read research papers and share my knowledge with students. During my free time, I like to travel new places and eat various foods. 
+I love to write code with background music, read research papers and share my knowledge with students. During my free time, I like to travel new places and eat various foods.

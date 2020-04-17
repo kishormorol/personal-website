@@ -25,8 +25,8 @@ date_format = "Jan 2006"
   date_start = "2018-09-11"
   date_end = ""
   description = """
-  Teaching: 
-  
+  Teaching:
+
   * Spring 19-20: Introduction to Programming, Computer Graphics
   * Fall 19-20: Algorithms, Computer Graphics, Operating Systems
   * Summer 18-19: Algorithms, Computer Graphics
@@ -40,9 +40,9 @@ date_format = "Jan 2006"
   company_url = "https://www.aiub.edu/"
   location = "Dhaka, Bangladesh"
   date_start = "2017-06-05"
-  date_end = "2018-08-31"
+  date_end = ""
   description = """Train students to solve computational problems."""
-  
+
   [[experience]]
   title = "Software Engineer"
   company = "IMS Health, Dhaka (IQVIA )"
