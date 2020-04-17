@@ -1,22 +1,22 @@
 ---
-title: Internal Project
-summary: An example of using the in-built project page.
+title: Bengali Sentiment Analysis
+summary: TBA
 tags:
-- Deep Learning
+- NLP
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/kishormorol"
 
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+- icon:
+  icon_pack:
+  name:
+  url:
 url_code: ""
 url_pdf: ""
 url_slides: ""
