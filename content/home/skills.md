@@ -22,20 +22,20 @@ subtitle = ""
   
 [[feature]]
   icon = "Machine Learning"
-  icon_pack = ""
+  icon_pack = "fab"
   name = "Machine Learning"
   description = "70%"  
   
 [[feature]]
   icon = "C++"
-  icon_pack = ""
+  icon_pack = "fab"
   name = "C++"
   description = "80%"
   
   [[feature]]
-  icon = "Java"
+  icon = "java"
   icon_pack = "fab"
-  name = "Java"
+  name = "java"
   description = "70%"
   
   [[feature]]
