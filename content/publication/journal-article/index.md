@@ -25,7 +25,7 @@ abstract: TBA
 
 tags:
 - Deep Learning
-featured: true
+featured: false
 
 #links:
 #- name: Custom Link
