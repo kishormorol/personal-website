@@ -12,7 +12,10 @@
   name = "Updates"
   url = "#posts"
   weight = 20
-
+  [[main]]
+     name = "Accomplishments"
+     url = "#awards"
+     weight = 30
 [[main]]
   name = "Research Projects"
   url = "#projects"
@@ -30,10 +33,7 @@
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- [[main]]
-    name = "Accomplishments"
-    url = "#awards"
-    weight = 30
+
 [[main]]
     name = "Résumé"
 #    url = "#awards"
