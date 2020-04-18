@@ -18,13 +18,13 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "19th Convocation of AIUB"
+  organization_url = "http://www.aiub.edu/"
+  title = "Magna Cum Laude Award"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = "https://github.com/kishormorol"
+  date_start = "2020-1-1"
   date_end = ""
-  description = ""
+  description = "The Magna Cum Laude is awarded to graduates based on academic results in MSc level."
 
 +++
