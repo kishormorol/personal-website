@@ -36,7 +36,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Lab Instructor & Trainer"
-  company = "AIUB ACM Trainer"
+  company = "ACM Coach (AIUB)"
   company_url = "https://icpc.baylor.edu/ICPCID/QNW8C7HN1GSV"
   location = "Dhaka, Bangladesh"
   date_start = "2017-06-05"
