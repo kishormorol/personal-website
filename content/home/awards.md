@@ -25,6 +25,6 @@ date_format = "Jan 2006"
   certificate_url = "https://github.com/kishormorol"
   date_start = "2020-1-1"
   date_end = ""
-  description = "The Magna Cum Laude is awarded to graduates based on academic results in MSc level."
+  description = """The Magna Cum Laude is awarded to graduates based on academic results in MSc level."""
 
 +++
