@@ -25,7 +25,7 @@ abstract: Student's feedback on academics can provide valuable information for a
 summary:
 tags:
 - NLP
-featured: true
+featured: false
 
 links:
 - name: Custom Link
