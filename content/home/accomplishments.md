@@ -18,5 +18,198 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Machine Learning"
+  url = ""
+  certificate_url = "https://www.coursera.org"
+  date_start = "2020-03-01"
+  date_end = ""
+  description = ""
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Neural Networks and Deep Learning"
+  url = ""
+  certificate_url = "https://www.coursera.org"
+  date_start = "2020-03-01"
+  date_end = ""
+  description = ""
+
+
+  [[item]]
+    organization = "Coursera"
+    organization_url = "https://www.coursera.org"
+    title = "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
+    url = ""
+    certificate_url = "https://www.coursera.org"
+    date_start = "2020-03-01"
+    date_end = ""
+    description = ""
+
+    [[item]]
+      organization = "Coursera"
+      organization_url = "https://www.coursera.org"
+      title = "Structuring Machine Learning Projects"
+      url = ""
+      certificate_url = "https://www.coursera.org"
+      date_start = "2020-03-01"
+      date_end = ""
+      description = ""
+
+
+      [[item]]
+        organization = "Coursera"
+        organization_url = "https://www.coursera.org"
+        title = "Convolutional Neural Networks"
+        url = ""
+        certificate_url = "https://www.coursera.org"
+        date_start = "2020-03-01"
+        date_end = ""
+        description = ""
+
+        [[item]]
+          organization = "Coursera"
+          organization_url = "https://www.coursera.org"
+          title = "Sequence Models"
+          url = ""
+          certificate_url = "https://www.coursera.org"
+          date_start = "2020-03-01"
+          date_end = ""
+          description = ""
+
+
+          [[item]]
+            organization = "Coursera"
+            organization_url = "https://www.coursera.org"
+            title = "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning"
+            url = ""
+            certificate_url = "https://www.coursera.org"
+            date_start = "2020-04-01"
+            date_end = ""
+            description = ""
+
+            [[item]]
+              organization = "Coursera"
+              organization_url = "https://www.coursera.org"
+              title = "Convolutional Neural Networks in TensorFlow"
+              url = ""
+              certificate_url = "https://www.coursera.org"
+              date_start = "2020-04-01"
+              date_end = ""
+              description = ""
+
+
+              [[item]]
+                organization = "Coursera"
+                organization_url = "https://www.coursera.org"
+                title = "Natural Language Processing in TensorFlow"
+                url = ""
+                certificate_url = "https://www.coursera.org"
+                date_start = "2020-04-01"
+                date_end = ""
+                description = ""
+                [[item]]
+                  organization = "Coursera"
+                  organization_url = "https://www.coursera.org"
+                  title = "Sequences, Time Series and Prediction"
+                  url = ""
+                  certificate_url = "https://www.coursera.org"
+                  date_start = "2020-04-01"
+                  date_end = ""
+                  description = ""
+
+
+                  [[item]]
+                    organization = "Coursera"
+                    organization_url = "https://www.coursera.org"
+                    title = "Algorithmic Toolbox"
+                    url = ""
+                    certificate_url = "https://www.coursera.org"
+                    date_start = "2020-03-01"
+                    date_end = ""
+                    description = ""
+
+                    [[item]]
+                      organization = "Coursera"
+                      organization_url = "https://www.coursera.org"
+                      title = "Data Structures"
+                      url = ""
+                      certificate_url = "https://www.coursera.org"
+                      date_start = "2020-03-01"
+                      date_end = ""
+                      description = ""
+
+
+                      [[item]]
+                        organization = "Coursera"
+                        organization_url = "https://www.coursera.org"
+                        title = "Algorithms on Graphs"
+                        url = ""
+                        certificate_url = "https://www.coursera.org"
+                        date_start = "2020-03-01"
+                        date_end = ""
+                        description = ""
+
+                        [[item]]
+                          organization = "Coursera"
+                          organization_url = "https://www.coursera.org"
+                          title = "Algorithms on Strings"
+                          url = ""
+                          certificate_url = "https://www.coursera.org"
+                          date_start = "2020-03-01"
+                          date_end = ""
+                          description = ""
+
+
+                          [[item]]
+                            organization = "Coursera"
+                            organization_url = "https://www.coursera.org"
+                            title = "Advanced Algorithms and Complexity"
+                            url = ""
+                            certificate_url = "https://www.coursera.org"
+                            date_start = "2020-03-01"
+                            date_end = ""
+                            description = ""
+
+                            [[item]]
+                              organization = "Coursera"
+                              organization_url = "https://www.coursera.org"
+                              title = "Genome Assembly Programming Challenge"
+                              url = ""
+                              certificate_url = "https://www.coursera.org"
+                              date_start = "2020-03-01"
+                              date_end = ""
+                              description = ""
+
+
+                              [[item]]
+                                organization = "Coursera"
+                                organization_url = "https://www.coursera.org"
+                                title = "AI for Medical Diagnosis"
+                                url = ""
+                                certificate_url = "https://www.coursera.org"
+                                date_start = "2020-04-01"
+                                date_end = ""
+                                description = "Ongoing"
+                                [[item]]
+                                  organization = "Coursera"
+                                  organization_url = "https://www.coursera.org"
+                                  title = "AI for Medical Prognosis"
+                                  url = ""
+                                  certificate_url = "https://www.coursera.org"
+                                  date_start = "2020-04-01"
+                                  date_end = ""
+                                  description = "Ongoing"
+                                  [[item]]
+                                    organization = "Coursera"
+                                    organization_url = "https://www.coursera.org"
+                                    title = "AI For Medical Treatment"
+                                    url = ""
+                                    certificate_url = "https://www.coursera.org"
+                                    date_start = "2020-04-01"
+                                    date_end = ""
+                                    description = ""
 
 +++
