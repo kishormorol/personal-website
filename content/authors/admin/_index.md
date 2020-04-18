@@ -14,7 +14,7 @@ role: Lecturer at Computer Science Department
 
 # Organizations/Affiliations
 organizations:
-- name: AIUB
+- name: American International University-Bangladesh (AIUB)
   url: "https://www.aiub.edu/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -24,14 +24,15 @@ interests:
 - Machine Learning
 - Natural Language Processing
 - Algorithms
+- Medical Image Processing
 
 education:
   courses:
   - course: MSc in Computer Science
-    institution: American International University-Bangladesh (AIUB)
+    institution: AIUB
     year: 2019
   - course: BSc in Computer Science
-    institution: American International University-Bangladesh (AIUB)
+    institution: AIUB
     year: 2016
   - course: Higher Secondary Certificate (HSC)
     institution: Government Nazimuddin College

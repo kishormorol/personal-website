@@ -1,5 +1,5 @@
 ---
-title: "An example preprint / working paper"
+title: ""
 authors:
 - admin
 date: "2019-04-07T00:00:00Z"
@@ -29,9 +29,9 @@ tags:
 featured: false
 
 #links:
-#- name: Custom Link
-#  url: ''
-#url_pdf:''
+- name: Custom Link
+  url: ''
+  url_pdf: ''
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'

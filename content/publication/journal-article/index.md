@@ -15,7 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: ""
 publication_short: ""
 
 abstract: TBA
@@ -28,9 +28,9 @@ tags:
 featured: true
 
 # links:
- #- name: Custom Link
-#   url: ''
-#url_pdf: ''
+- name: Custom Link
+   url: ''
+url_pdf: ''
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
